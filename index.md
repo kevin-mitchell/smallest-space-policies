@@ -3,4 +3,5 @@
 This site hosts the legal policies for the Smallest Space application.
 
 * [Privacy Policy](./privacy-policy.html)
+* [Terms and Conditions](./terms-and-conditions.html)
 
