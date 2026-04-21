@@ -1,4 +1,4 @@
-# Welcome to smallest.space Policies
+# Welcome to smallest.space
 
 This site hosts the legal policies for the smallest.space application.
 
